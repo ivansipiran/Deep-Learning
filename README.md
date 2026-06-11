@@ -20,7 +20,7 @@ Del perceptrón a los Transformers: MLP, funciones de pérdida, gradiente descen
 
 - **Clase 1 · Teoría** — Del perceptrón a los Transformers
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase1_Teoria_Fundamentos.ipynb)
-    - Infografías 🖼️: [Datos en IA](infografias\M1\01_Representación_Vectorial_en_IA.png), [El perceptrón](infografias\M1\02_El_Perceptron_Atomo_de_la_IA.png), [Perceptrón Multicapa](infografias\M1\03_Perceptrón_Multicapa.png), [Funciones de Loss](infografias\M1\04_Funciones_de_Perdida.png), [Descenso de Gradiente](infografias\M1\05_Descenso_de_Gradiente.png), [Backpropagation](infografias\M1\06_Backpropagation_en_Aprendizaje_Profundo.png), [Generalización en Redes Neuronales](infografias\M1\07_Generalizacion_en_redes_neuronales.png)
+    - Infografías 🖼️: [Datos en IA](infografias/M1/01_Representación_Vectorial_en_IA.png), [El perceptrón](infografias/M1/02_El_Perceptron_Atomo_de_la_IA.png), [Perceptrón Multicapa](infografias/M1/03_Perceptrón_Multicapa.png), [Funciones de Loss](infografias/M1/04_Funciones_de_Perdida.png), [Descenso de Gradiente](infografias/M1/05_Descenso_de_Gradiente.png), [Backpropagation](infografias/M1/06_Backpropagation_en_Aprendizaje_Profundo.png), [Generalización en Redes Neuronales](infografias/M1/07_Generalizacion_en_redes_neuronales.png)
 - **Clase 2 · Práctica** — Construyendo redes desde cero en PyTorch
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase2_Practica_Fundamentos.ipynb)
 
