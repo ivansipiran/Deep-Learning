@@ -1,10 +1,10 @@
-# CC6204 Deep Learning
+# Deep Learning
 
 ## Departamento de Ciencias de la Computación — Universidad de Chile
 
 Repositorio del curso de Deep Learning del DCC - Uchile.
 
-Esta es la versión **rediseñada** del curso: **8 clases de 3 horas**, organizadas en **4 módulos**. Cada módulo tiene una **clase de teoría** (apunte en Colab que el profesor recorre en vivo, con conceptos y demos) y una **clase práctica** (laboratorio guiado por el ayudante, con ejercicios y soluciones). Todo en PyTorch.
+Esta es la versión **rediseñada** del curso: **8 clases de 3 horas**, organizadas en **4 módulos**. Cada módulo tiene una **clase de teoría** (apunte en Colab en vivo, con conceptos y demos) y una **clase práctica** (laboratorio guiado con ejercicios y soluciones). Todo en PyTorch.
 
 > **Cómo abrir los notebooks:** haz clic en el badge ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg). El notebook se abre en modo lectura/playground; para guardar tus cambios usa *Archivo → Guardar una copia en Drive*. Para las clases prácticas de los módulos 2 a 4 conviene activar GPU en *Entorno de ejecución → Cambiar tipo de entorno → GPU*.
 >
