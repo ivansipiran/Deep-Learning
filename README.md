@@ -24,7 +24,7 @@ Del perceptrón a los Transformers: MLP, funciones de pérdida, gradiente descen
 - **Clase 2 · Práctica** — Construyendo redes desde cero en PyTorch
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M1_Clase2_Practica_Fundamentos.ipynb)
 
-### Módulo 2 — Visión computacional 🚧
+### Módulo 2 — Visión computacional ✅
 
 Convolución, redes convolucionales, arquitecturas (LeNet → ResNet), transfer learning y Vision Transformers.
 
