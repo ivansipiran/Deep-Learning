@@ -33,7 +33,7 @@ Convolución, redes convolucionales, arquitecturas (LeNet → ResNet), transfer 
 - **Clase 4 · Práctica** — CNN, data augmentation y transfer learning
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M2_Clase4_Practica_Vision.ipynb)
 
-### Módulo 3 — Procesamiento de Lenguaje Natural 🚧
+### Módulo 3 — Procesamiento de Lenguaje Natural ✅
 
 Representación de texto y embeddings, RNN/LSTM, seq2seq y atención, Transformers y LLMs.
 
@@ -42,7 +42,7 @@ Representación de texto y embeddings, RNN/LSTM, seq2seq y atención, Transforme
 - **Clase 6 · Práctica** — Clasificación con RNN, fine-tuning de BERT y uso de un LLM
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivansipiran/Deep-Learning/blob/main/M3_Clase6_Practica_NLP.ipynb)
 
-### Módulo 4 — Temas avanzados 🚧
+### Módulo 4 — Temas avanzados ✅
 
 Modelos generativos (VAE, GAN, difusión), modelos multimodales (CLIP, BLIP) y agentes.
 
